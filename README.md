@@ -40,7 +40,8 @@ Note: This standalone application is specifically tailored for use by Gajul Fabr
 - Utilizes MySQL database for storing and retrieving production data.
 - Designed to streamline workflow, reduce manual recording and analysis of production and salaries, and improve overall productivity within the organization.
 - Additionally, it includes functionality to manage and save salary information for workers.
-This comprehensive set of features is why it is named the Production and Payroll Management System
+
+This comprehensive set of features is why it is named the Production and Payroll Management System.
 ## User Manual
 
 For detailed information about the User Interface, please refer to the [User Manual](https://1drv.ms/w/s!Av_a63FJVVCMhnnMJoeTqFzmKA3y?e=oY9SB2).
