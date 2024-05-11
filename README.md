@@ -23,9 +23,16 @@ You can install these libraries/modules using pip. Open your command-line interf
   pip install pillow
 ```
 
-Make sure you have pip installed on your system. If you don't have it, you can install it by following the instructions - https://pip.pypa.io/en/stable/installation/
+Make sure you have pip installed on your system. If you don't have it, you can install it by following the instructions [here](https://pip.pypa.io/en/stable/installation/).
 ## Used By
 
 This project is used by the following company:
 
 - Gajul Fabrics
+
+## Project Background
+
+This project was developed as part of my Master's first-year in Computer Science, second-semester field project. It serves as a culmination of academic learning and practical application in the field of computer science.
+## Future Release: Executable File
+
+An executable file (.exe) will soon be available for eaiser usage. Stay tuned for updates!
