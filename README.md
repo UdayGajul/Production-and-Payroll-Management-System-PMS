@@ -1,4 +1,3 @@
-
 # Production and Payroll Management System (PMS) by Uday Gajul
 
 The project idea is to develop an application (PMS) for Gajul Fabrics through which they can manage their daily production and generate reports.
@@ -42,6 +41,20 @@ Note: This standalone application is specifically tailored for use by Gajul Fabr
 - Additionally, it includes functionality to manage and save salary information for workers.
 
 This comprehensive set of features is why it is named the Production and Payroll Management System.
+## Handling Date Format Issues
+
+### Problem Description
+If you encounter any issues while running the code, it might be due to date format discrepancies. The application uses a DateEntry widget, and the default date format may not match your system's date format settings.
+
+### Solution
+To resolve this, you can adjust the date format in the code to match your system's format. Follow these steps:
+
+1. Open your code editor.
+2. Press Ctrl + H to open the search and replace dialog.
+3. Search for the date format string %m/%d/%Y.
+4. Replace it with your system's date format. For example, you might replace it with %m-%d-%Y or %d/%m/%Y, etc.
+
+Rest assured, Gajul Fabrics is currently using this application and is satisfied with its performance.
 ## User Manual
 
 For detailed information about the User Interface, please refer to the [User Manual](https://1drv.ms/w/s!Av_a63FJVVCMhnnMJoeTqFzmKA3y?e=oY9SB2).
