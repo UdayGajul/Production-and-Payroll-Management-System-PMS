@@ -68,3 +68,7 @@ This project is used by the following company:
 ## Future Release: Executable File
 
 An executable file (.exe) will soon be available for easier usage. Stay tuned for updates!
+
+OR
+
+[Click here](https://1drv.ms/f/s!Av_a63FJVVCMhi3EUUAQiGdyi5fN?e=msDfFI) to download the .exe files.
