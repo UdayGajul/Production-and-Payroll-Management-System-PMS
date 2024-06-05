@@ -30,7 +30,7 @@ Make sure you have pip installed on your system. If you don't have it, you can i
 
 This project was developed as part of my Master's first-year in Computer Science, second-semester field project. It serves as a culmination of academic learning and practical application in the field of computer science.
 
-Note: This standalone application is specifically tailored for use by Gajul Fabrics. Its functionality and features are designed to meet the specific needs of this organization and may not be suitable for other purposes.
+Note: This standalone application is specifically tailored for use by Gajul Fabrics and other textile industry companies. Its functionality and features are designed to meet the specific needs of this organization and may not be suitable for other purposes.
 
 - The application facilitates production management and report generation for Gajul Fabrics.
 - Developed using Python and various libraries such as tkinter, ttkbootstrap, matplotlib, and Pillow.
