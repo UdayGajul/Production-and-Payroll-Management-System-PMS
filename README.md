@@ -62,9 +62,12 @@ You can download them using the link below:
 🔗 [Click here to access the Google Drive folder](https://drive.google.com/drive/folders/1zyWwwnRidnEF49zgedYTeYbBIN5Xs2IL)
 
 > The folder contains:
+> - Source code
 > - Executable (.exe) files  
 > - Complete User Manual  
-> - Additional required project files (if any)
+> - Application Demo Video
+> - Additional required project images
+
 ## Used By
 
 This project is used by the following company:
