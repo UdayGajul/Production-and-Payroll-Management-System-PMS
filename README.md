@@ -1,6 +1,6 @@
 # Production and Payroll Management System (PPMS) by Uday Gajul
 
-The project idea is to develop an application (PMS) for Gajul Fabrics through which they can manage their daily production and generate reports.
+The project idea is to develop an application (PPMS) for Gajul Fabrics through which they can manage their daily production and generate reports.
 ## Installation
 
 To run the program, you need to install the following libraries/modules:
