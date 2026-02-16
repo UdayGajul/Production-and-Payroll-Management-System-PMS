@@ -18,21 +18,25 @@ To run the program, you need to install the following libraries/modules:
 
 - *tkinter*: Python's standard GUI (Graphical User Interface) toolkit.
 - *ttkbootstrap*: A library for creating themed widgets using Bootstrap CSS framework.
-- *matplotlib*: A plotting library for creating static, animated, and interactive visualization in Python.
+- *matplotlib*: A plotting library for creating interactive visualization in Python.
 - *pillow*: Python Imaging Library (PIL), used for working with images.
 - *mysql-connector-python*: A module for connecting Python programs with MySQL databases.
 
-You can install these libraries/modules using pip. Open your command-line interface and run the following commands:
+You can install these libraries/modules using pip. Open your command-line interface and run the following commands one by one:
 
 ```bash
   pip install tkinter
-
+```
+```bash
   pip install ttkbootstrap
-
+```
+```bash
   pip install matplotlib
-
+```
+```bash
   pip install pillow
-
+```
+```bash
   pip install mysql-connector-python
 ```
 
