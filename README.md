@@ -59,7 +59,7 @@ This project was developed as part of my Master's first-year in Computer Science
 `This comprehensive set of features is why it is named the Production and Payroll Management System.`
 ## Download Executable & User Manual
 
-All required files, including the **.exe executable files** and the **User Manual**, have been uploaded to Google Drive.
+All required files, including the **.exe executable files**, **User Manual**, and **Screen Recording Video**, have been uploaded to Google Drive.
 
 You can download them using the link below:
 
